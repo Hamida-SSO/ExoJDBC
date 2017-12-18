@@ -6,11 +6,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.ArrayList;
-import java.util.List;
 
-import org.omg.CORBA.SystemException;
-import org.postgresql.util.LruCache.CreateAction;
 
 /**
  * Hello world!
